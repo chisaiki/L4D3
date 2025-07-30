@@ -43,7 +43,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://imgur.com/a/EaIPBTl
 
 GIF created with ScreentoGif
 
